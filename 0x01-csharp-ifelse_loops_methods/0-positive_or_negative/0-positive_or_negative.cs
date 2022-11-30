@@ -10,7 +10,7 @@ class Program
         {
             Console.WriteLine($"{number} is positive");
         }
-        if (number < 0)
+        else if (number < 0)
         {
             Console.WriteLine($"{number} is negative");
         }
