@@ -10,7 +10,7 @@ namespace _5_print_comb
             {
                 if (i == 99)
                 {
-                    Console.Write($"{i:00}\r\n");
+                    Console.WriteLine($"{i:00}");
                 }
                 else
                 {
