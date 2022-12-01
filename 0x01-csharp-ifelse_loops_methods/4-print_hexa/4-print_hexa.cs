@@ -8,7 +8,7 @@ namespace _4_print_hexa
         {
             for (int i = 0; i < 99; i++)
             {
-                string hex = Convert.ToString(i, 16);
+                string hex = i.ToString("x");
                 Console.Write($"{i} = 0x{hex}\r\n");
             }
         }
