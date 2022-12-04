@@ -19,13 +19,14 @@ namespace _0_print_array
             else 
             {
                 int[] arr = new int[size];
-                for (int i = 0; i < size - 1; i++)
+                for (int i = 0; i < size; i++)
                 {
                     arr[i] = i;
-                    Console.Write($"{arr[i]} ");
+                    if (i < size - 1)
+                        Console.Write($"{arr[i]} ");
+                    else
+                        Console.WriteLine(${arr[i]});
                 }
-                arr[size - 1] = size - 1;
-                Console.WriteLine($"{arr[size - 1]}");
                 return arr;
             }
         }
