@@ -4,11 +4,7 @@ class Array
 {
     public static void Reverse(int[] array)
     {
-        if (array == null || array.Length < 0)
-        {
-            Console.WriteLine();
-        }
-        else
+        if (array.Length > 0)
         {
             for (int i = array.Length - 1; i == 0; i--)
             {
@@ -17,6 +13,10 @@ class Array
                 else
                     Console.WriteLine($"{array[i]}");
             }
+        }
+        else
+        {
+            Console.WriteLine ();
         }
     }
 
