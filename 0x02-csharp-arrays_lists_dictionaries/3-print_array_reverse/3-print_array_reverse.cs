@@ -11,10 +11,10 @@ class Array
         }
         if (array.Length > 0)
         {
-            for (int i = array.Length - 1; i == 0; i--)
+            for (int i = array.Length - 1; i > -1; i--)
             {
                 if (i != 0)
-                    Console.Write($"{array[i] }");
+                    Console.Write($"{array[i]} ");
                 else
                     Console.WriteLine($"{array[i]}");
             }
