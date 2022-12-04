@@ -9,7 +9,7 @@ namespace _0_print_array
             if (size == 0)
             {
                 Console.WriteLine();
-                return null;
+                return new int[size];
             }
             else if (size < 0)
             {
@@ -24,6 +24,7 @@ namespace _0_print_array
                     arr[i] = i;
                     Console.Write($"{arr[i]} ");
                 }
+                arr[size - 1] = size - 1;
                 Console.WriteLine($"{arr[size - 1]}");
                 return arr;
             }
