@@ -21,7 +21,7 @@ namespace _0_print_array
                     arr[i] = i;
                     Console.Write($"{arr[i]} ");
                 }
-                Console.Write($"{arr[size]}");
+                Console.WriteLine($"{arr[size]}");
             }
         }
     }
