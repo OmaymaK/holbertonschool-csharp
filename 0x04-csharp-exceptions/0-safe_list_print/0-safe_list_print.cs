@@ -18,5 +18,3 @@ using System.Collections.Generic;
             return (i);
         }
     }
-
-Footer
