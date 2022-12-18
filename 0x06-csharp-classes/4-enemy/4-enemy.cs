@@ -10,6 +10,7 @@ namespace Enemies
     {
         /// <summary>Field that defines the health of zombie.</summary> 
         public int health;
+        string name = "(No name)";
  /// <summary>Initializes a new instance of the <see cref="Zombie"/> class.</summary>
         public Zombie()
         {
