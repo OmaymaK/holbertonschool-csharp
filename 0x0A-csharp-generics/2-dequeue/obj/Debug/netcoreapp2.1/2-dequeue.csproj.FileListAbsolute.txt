@@ -1,0 +1,11 @@
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.deps.json
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.runtimeconfig.json
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.runtimeconfig.dev.json
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.dll
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.pdb
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.csprojAssemblyReference.cache
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.csproj.CoreCompileInputs.cache
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.AssemblyInfoInputs.cache
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.AssemblyInfo.cs
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.dll
+/Users/uma/Desktop/Big Data/Work/Holberton_Speciality/holbertonschool-csharp/0x0A-csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.pdb
